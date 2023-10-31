@@ -1,1 +1,1 @@
-Tiedoston 2 sisältö.
+Tiedoston 2 sisältö. Tämä teksti on lisätty "git add -p" -komennolla.
